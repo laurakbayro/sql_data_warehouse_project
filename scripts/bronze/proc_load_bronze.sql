@@ -24,9 +24,6 @@ Parameters:
 Usage Example:
     EXEC bronze.load_bronze;
 
-Note:
-    The BULK INSERT paths point to 'C:\sql\dwh_project\01_datasets\'.
-    Change them to the folder where you saved the datasets.
 ===============================================================================
 */
 
