@@ -103,7 +103,7 @@ Through this project, I aim to strengthen my practical skills in:
 
 ## 👤 Author
 
-**[Your Name]**
+**Laura Rubio Caballero**
 
 Electronics Engineering | Master's Studies | Data Analytics & Software
 
